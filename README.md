@@ -1,5 +1,9 @@
 <h2 align="center">Hi 👋! My name is Aabiskar Regmi and I'm a Computer Engineering Student from Pokhara</h2>
+###
 
+<div align="center">
+  <img height="500" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg1OTAwNDIsIm5iZiI6MTcxODU4OTc0MiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE3VDAyMDIyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE2MjA5MzZlNTcwNDhkZWI1MGUxYWY1MmUyMjRjYTAzYmY3NjBlZmY2ZjVmOGIyYjJlZDc4MjQyZmRiY2FkYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2dFKqI0Skt6RNdh9fFmNxL9Ptw48Dw1KKLO53Ikj2SI"  />
+</div>
 ###
 
 <div align="center">
@@ -55,10 +59,6 @@
 
 <img src="https://raw.githubusercontent.com/aabskrimgr/aabskrimgr/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img height="500" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg1OTAwNDIsIm5iZiI6MTcxODU4OTc0MiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE3VDAyMDIyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE2MjA5MzZlNTcwNDhkZWI1MGUxYWY1MmUyMjRjYTAzYmY3NjBlZmY2ZjVmOGIyYjJlZDc4MjQyZmRiY2FkYWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.2dFKqI0Skt6RNdh9fFmNxL9Ptw48Dw1KKLO53Ikj2SI"  />
-</div>
 
 ###
