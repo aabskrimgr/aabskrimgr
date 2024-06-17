@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Aabiskar Regmi and I'm a Computer Engineering Student from Pokhara</h2>
+<h2 align="center">Hi 👋! My name is Aabiskar Regmi and I'm a Computer Engineering Student from Pokhara</h2>
 
 ###
 
